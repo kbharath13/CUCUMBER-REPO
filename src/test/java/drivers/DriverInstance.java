@@ -8,5 +8,6 @@ public class DriverInstance {
 	public int a =10;
 	public int b =20;
 	String str ="INDIA";
+	String str1="USA";
 
 }
