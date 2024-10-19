@@ -9,5 +9,6 @@ public class DriverInstance {
 	public int b =20;
 	String str ="INDIA";
 	String str1="USA";
+	int c=36;
 
 }
